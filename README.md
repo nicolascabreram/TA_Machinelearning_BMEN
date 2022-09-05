@@ -1,6 +1,7 @@
-<h1 align="center">Welcome to the resources for machine learning for Biomedical Engineering 👋</h1>
+<h1 align="center">Welcome to machine learning for Biomedical Engineering 👋</h1>
 
-This are some resources for the class I was teacher assistant on spring 2021
+Here I upload some resources I used for the class I TA on spring 2021. Each topic has a code and a brief explanation of the topic.
+
 ## ✨ Unsupervised Learning
 
 This code was used to teach clusting applications an unsupersed learning. In specific we apply k-means clustering. 
