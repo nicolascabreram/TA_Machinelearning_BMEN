@@ -2,7 +2,7 @@
 
 Here I upload some resources I used for the class I TA on spring 2021. Each topic has a code and a brief explanation of the topic.
 
-## ✨ Unsupervised Learning
+## ✨ Unsupervised Learning using k-means
 
 This code was used to teach clusting applications an unsupersed learning. In specific we apply k-means clustering. 
 
