@@ -22,3 +22,14 @@ As a matter of example 3D random points were generated. Then, the values putted 
 - Model is learning from raw data without any prior knowledge
 - The more the features, the more the complexity increases
 
+### ✨ External Resources
+
+You can find [ejs README template examples here](https://github.com/kefranabg/readme-md-generator/tree/master/templates).
+
+1. Watch: ([Intro to K-means algorithm (15 minutes)](https://www.youtube.com/watch?v=_S5tvagaQRU))
+
+2. Read: Intro to using K-means for image segmentation (Links to an external site.)
+
+3. Download the unsupervised learning using k-means.ipynb Download unsupervised learning using k-means.ipynb
+
+4. Read: K-Means an Complete Introduction
