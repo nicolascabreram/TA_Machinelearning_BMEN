@@ -2,7 +2,7 @@
 
 Here I upload some resources I used for the class that I was teacher assisstant on spring 2021. Each topic has a code and a brief explanation of the topic.
 
-## ✨ Machine Learning Model for MNIST Handwriting
+## ✨ Deep Learning for MNIST Handwriting
 
 This code was one of the first codes ued in class based on the book Deep Learning with Python by Francois Chollet.
 
