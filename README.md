@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to machine learning for Biomedical Engineering 👋</h1>
+<h1 align="center">Welcome to the class machine learning for Biomedical Engineering 👋</h1>
 
 Here I upload some resources I used for the class that I was teacher assisstant on spring 2021. Each topic has a code and a brief explanation of the topic.
 
